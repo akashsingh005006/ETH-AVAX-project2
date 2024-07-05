@@ -16,10 +16,10 @@ The MarksGrade contract is a Solidity smart contract designed to manage academic
 2. **preparing Gitpod**
    - Visit [Gitpod]
    - import package into Gitpod from Metachris repository.
-   - update a `deploy.js` file with  marksgrade.sol file.
+   - update a `deploy.js` file with  `Marksgrade.sol` file.
 
 3. **Modification**
-   - Insert the updated code into `marksGrade.sol`.
+   - Insert the updated code into `MarksGrade.sol`.
 
 4. **Compile and Deploy**
    - Compile the code using the `Gitpod`.
@@ -90,9 +90,9 @@ contract MarksGrade {
 }
 
 ```
-### Help:
+### Help
+For common issues like, refer to the following
 
-For common issues like, refer to the following;
 1.Error: "Invalid provider": Verify that your RPC URL and private key are correct.
 2.Error: "Contract not deployed": Ensure that the contract is correctly deployed on the specified network.
 

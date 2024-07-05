@@ -8,8 +8,7 @@ The MarksGrade contract is a Solidity smart contract designed to manage academic
 
 ### Installing
 
-1.**Setting Metamask**:
-
+1.**Setting Metamask**
     - Ensure you have access to an wallet (e.g., MetaMask).
     - create a localhost network and connect it with Metamask wallet.
     
@@ -93,8 +92,8 @@ contract MarksGrade {
 ### Help
 For common issues like, refer to the following
 
-1.Error: "Invalid provider": Verify that your RPC URL and private key are correct.
-2.Error: "Contract not deployed": Ensure that the contract is correctly deployed on the specified network.
+-Error: "Invalid provider": Verify that your RPC URL and private key are correct.
+-Error: "Contract not deployed": Ensure that the contract is correctly deployed on the specified network.
 
 To display help Information :
 ```solidity

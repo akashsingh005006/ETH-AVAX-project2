@@ -9,18 +9,19 @@ The MarksGrade contract is a Solidity smart contract designed to manage academic
 ### Installing
 
 1.**Setting Metamask**:
+
     - Ensure you have access to an wallet (e.g., MetaMask).
     - create a localhost network and connect it with Metamask wallet.
     
-1. **preparing Gitpod**
+2. **preparing Gitpod**
    - Visit [Gitpod]
    - import package into Gitpod from Metachris repository.
    - update a `deploy.js` file with  marksgrade.sol file.
 
-2. **Modification**
+3. **Modification**
    - Insert the updated code into `marksGrade.sol`.
 
-3. **Compile and Deploy**
+4. **Compile and Deploy**
    - Compile the code using the `Gitpod`.
   
      ### Executing Program
@@ -104,5 +105,5 @@ npx hardhat help
 Akash Singh
 
 ### License
-his project is licensed under the MIT License
+this project is licensed under the MIT License
 
